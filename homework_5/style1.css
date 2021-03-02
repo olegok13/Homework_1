@@ -1,0 +1,33 @@
+html, body {margin: 0; padding: 0;}
+
+body {background: rgb(17, 18,22);}
+
+main {margin: 0 auto;
+padding-top: 120px;
+text-align: center;}
+
+main p { color: rgb(255, 255,255);
+font-size: 32px;
+
+margin: 55px 0px 20px 0px;
+}
+
+main hr { width: 230px;
+   
+}
+
+div { margin: 0 auto;
+padding: top 262px;
+text-align: center;}
+
+div img {margin: 20px 15px 0px 15px;
+   
+
+}
+
+footer p {text-align: center;
+    font-size: 13px;
+color: rgb(255, 255,255);
+margin: 90px;
+}
+.color{color:rgb(0, 199,252)}
