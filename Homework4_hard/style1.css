@@ -1,0 +1,70 @@
+html, body {margin: 0; padding: 0;}
+.conteiner{
+    width: 942px;
+
+background: rgb(153, 9,9); 
+margin-left: auto;
+margin-right: auto;
+
+}
+
+body{background: rgb(153, 9,9);}
+
+header {text-align: center;}
+
+
+.gal{background: black;
+width: 100%;}
+
+.gal td {padding: 40px 20px 0 40px;}
+
+
+
+.gal td img {width: 152px;
+height: 114px;}
+
+.gal tr td p{
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}
+.content {width: 203px;}
+
+
+
+.content nav div {margin-bottom: 20px;}
+
+
+.content nav  { background: rgb(125, 9,9);
+width: 203px;
+height: 293px;}
+
+
+.content nav a {
+color: rgb(233,91,13);}
+
+.text {width: 585px; height: 293px;
+color: white;}
+
+.newtext {
+    background: rgb(227,221,221);
+    width:138px;
+height:293px ;
+margin:20px 20px 20px 0px  ;}
+
+.newtext hr {width: 76px; margin-top: 10px;}
+
+.newtext h4 {
+    text-align: center;
+    background: rgb(198,198,198);
+}
+
+
+
+footer{text-align: center;
+font-size: 18px;
+background: rgb(233,91,17);
+color: white;
+
+
+}
