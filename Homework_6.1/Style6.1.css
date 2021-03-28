@@ -1,0 +1,90 @@
+html, body {margin: 0;
+    padding: 0;
+    }
+
+
+
+
+
+    table {
+width: 960px;
+box-sizing: border-box;
+
+margin: 56px auto 20px auto;
+
+
+}
+
+table td {
+width: 260px;
+text-align: center;
+padding: 20px 50px;
+
+
+
+}
+
+
+.icon {
+width: 63px;
+height: 63px;
+background-color: #1275b9;
+background-repeat: no-repeat;
+background-position: center;
+
+
+border-radius: 50%;
+margin: 0 auto 20px auto;
+
+border: 1px solid #1275b9;
+box-sizing: border-box;
+transition: background-color .2s ease-in-out, background-image .2s ease-in-out;
+}
+
+
+.icon:hover {
+background-color:#fff ;
+
+}
+.icon-1:hover {
+    background-image: url(/Homework_6.1/assets/Tablet.svg);
+    
+}
+.icon-1 {
+background-image: url(/Homework_6.1/assets/Tablet_white.svg);
+
+
+}
+.icon-2:hover {
+    background-image: url(/Homework_6.1/assets/Settings.svg);
+    
+    
+    }
+.icon-2 {
+    background-image: url(/Homework_6.1/assets/Settings_white.svg);
+    
+    
+    }
+
+    .icon-3:hover {
+        background-image: url(/Homework_6.1/assets/Dashboard.svg);
+        
+        
+        }
+    .icon-3 {
+        background-image: url(/Homework_6.1/assets/Dashboard_white.svg);
+        
+        
+        }
+
+h2{
+text-align: center;
+font-size: 14px;
+margin: 20px 20px 0px; 
+
+
+}
+p{text-align: center;
+font: 14px;
+margin: 20px 0px  0px  0px; }
+
