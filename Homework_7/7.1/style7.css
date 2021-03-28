@@ -1,0 +1,135 @@
+
+.conteiner {width: 1280px;
+margin: 0 auto;
+box-sizing: border-box; 
+padding: 20px 170px 0px 170px;
+
+
+height: 976px;
+}
+
+.title{
+font-size: 12px;
+font-family: sans-serif;
+font-weight: bold;
+text-align: center;
+color: #777777;
+margin: 0 auto;
+
+}
+
+h1{
+  color:  #0ec8cb;
+  font-size: 48px;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+margin: 37px auto 45px;
+
+}
+
+.title2{
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #777777;
+    margin: 0 auto 108px auto;
+
+
+}
+
+
+
+
+
+table{
+
+    width: 940px;
+    box-sizing: border-box;
+    
+}
+
+
+
+
+
+
+
+.icon{
+background-color: white;
+width: 64px;
+height: 64px;
+background-repeat: no-repeat;
+background-position: center;
+margin: 0 auto;
+box-sizing: border-box;
+}
+
+.first{
+    margin: 56px auto 33px;
+    font-size: 21px;
+    font-family: sans-serif;
+   
+}
+
+.first-1{ margin:  42px auto 33px;}
+
+.text{
+color: #777777;
+font-size: 14px;
+margin: 0;
+font-family: sans-serif;
+
+
+}
+td:hover .icon {
+    background-color:#0ec8cb ;
+
+}
+td:hover .first {
+    color:#ffffff ;
+
+}
+td{
+    background-color:#ffffff ;
+    padding: 56px 33px 86px 33px;
+    text-align: center;
+    box-sizing: border-box;
+    width: 25%;
+    display: inline-block;
+    height: 420px;
+}
+
+td:hover{
+    background-color:#0ec8cb ;
+
+}
+
+td:hover .text {
+    color: white;
+}
+
+td:hover .icon-1 {
+    background-image:url(/7.1/assets/Anchor_white.svg) }
+
+.icon-1 {
+    background-image:url(/7.1/assets/Anchor.svg) }
+
+    td:hover .icon-2 {
+        background-image:url(/7.1/assets/Diamond_white.svg) }
+    .icon-2 {
+        background-image:url(/7.1/assets/Diamond.svg) }
+        td:hover .icon-3 {
+            background-image:url(/7.1/assets/Eyeglasses_white.svg) }
+        .icon-3 {
+            background-image:url(/7.1/assets/Eyeglasses.svg) }
+            td:hover .icon-4 {
+                background-image:url(/7.1/assets/Monitor_white.svg) }
+
+            .icon-4 {
+                background-image:url(/7.1/assets/Monitor.svg) }
+
+
+          
+                           
