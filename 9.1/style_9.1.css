@@ -1,0 +1,58 @@
+
+
+
+.conteiner {
+background-color: #ffffff;
+width: 1260px;
+box-sizing: border-box;
+margin: 0 auto;
+}
+
+p {
+font-family: 'Lato';
+font-size: 19px;
+font-weight: 200 ;
+margin: 0 0 50px 0;
+
+}
+
+h1{
+    font-family: 'Playfair Display';
+    font-size: 52px;
+    font-weight: 400;
+    margin: 25px 0 37px 0;
+    
+
+}
+
+.one::first-letter {
+    font-family: 'Playfair Display';
+    font-size: 110px;
+    font-weight: 400;
+}
+.last{
+    font-size: 25px;
+
+}
+.last span {
+    font-family: 'Lato';
+font-size: 63px;
+font-weight: 200 ;
+}
+
+button{
+    width: 260px;
+    height: 64px;
+    box-sizing: border-box;
+    border: 2px solid #eaa258;
+    font-family: 'Lato';
+    font-weight: bold;
+    font-size: 18px;
+    color:#eaa258;
+    background-color: #ffffff;
+    margin: 0;
+    border-radius: 0;
+    text-align: center;
+    outline: 0;
+    
+}
